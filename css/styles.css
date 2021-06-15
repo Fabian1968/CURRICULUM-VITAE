@@ -9,7 +9,7 @@ body {
 /***** Inicio Panel Izquierda *****/
 
 #panel-izquierda {
-    position: fixed;
+    /*position: fixed;*/
     background-color: gray;
     float: left;
     width: 21%;
